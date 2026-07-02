@@ -66,18 +66,6 @@ The analysis indicates:
 
 ---
 
-## Repository Structure
-
-```
-.
-├── Project_work_cyber_risk.R        # Complete R analysis
-├── Modeling_Yearly_Maximums_and_Future_Cyber_Risk.pdf
-├── data_breaches.csv                # Dataset (not included if restricted)
-└── README.md
-```
-
----
-
 ## Required R Packages
 
 ```r
@@ -108,14 +96,6 @@ git clone https://github.com/yourusername/Modeling-Yearly-Maximums-and-Future-Cy
 4. Install required packages if necessary.
 
 5. Run the script from top to bottom.
-
----
-
-## References
-
-- Coles, S. (2001). *An Introduction to Statistical Modeling of Extreme Values.*
-- Gilleland, E., & Katz, R. (2016). *extRemes 2.0.*
-- Zhan, Z. et al. (2015). *Predicting Cyber Attack Rates with Extreme Values.*
 
 ---
 
