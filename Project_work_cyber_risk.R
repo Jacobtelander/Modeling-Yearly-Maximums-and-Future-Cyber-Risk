@@ -18,7 +18,7 @@ packageVersion("gtable")
 
 
 ## 2. Clean datat
-## ----------------
+## -----------------
 breaches_raw <- read.csv("data_breaches.csv") #Loading of data
 
 breaches <- breaches_raw %>%
