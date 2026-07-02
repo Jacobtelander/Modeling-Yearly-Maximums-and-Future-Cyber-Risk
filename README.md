@@ -66,21 +66,6 @@ The analysis indicates:
 
 ---
 
-## Required R Packages
-
-```r
-dplyr
-ggplot2
-extRemes
-evd
-readr
-scales
-patchwork
-gtable
-```
-
----
-
 ## How to Run
 
 1. Clone the repository.
